@@ -1,4 +1,4 @@
-package com.example.myapp;
+package com.andromeda_software.greatplaces;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
